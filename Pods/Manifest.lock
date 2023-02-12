@@ -1,0 +1,16 @@
+PODS:
+  - AnchoredBottomSheet (1.4.1)
+
+DEPENDENCIES:
+  - AnchoredBottomSheet (~> 1.4.1)
+
+SPEC REPOS:
+  trunk:
+    - AnchoredBottomSheet
+
+SPEC CHECKSUMS:
+  AnchoredBottomSheet: a8d0b9f617dcfcd8de1c20ecf9f84d5b5cbd0245
+
+PODFILE CHECKSUM: c0a77a6c6f0d5a5b109b82cd87a77c1339e44389
+
+COCOAPODS: 1.11.3
